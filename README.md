@@ -26,7 +26,7 @@
 
 <img align="right" width="300px" alt="Coding" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
 
-<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>About Me...</strong></em></p>
+<p><em><strong>About Me...</strong></em></p>
 
 
 ✔ I'm currently working on a <strong>NestJS & React task tracker</strong> to deepen my knowledge in these technologies<br>
@@ -37,7 +37,7 @@
 ✔ Ask me about anything tech related, I'm eager to learn and share what I know!<br>
 ✔ Fun fact: <em>I enjoy adrenaline-based activities and have a taste for dark humor</em><br><br>
 
-<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Languages & Tools I Know…</strong></em></p>
+<p><em><strong>Languages & Tools I Know…</strong></em></p>
 
 <p>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
