@@ -6,7 +6,6 @@
 <h3 align="center">Still Learning Full Stack Developer</h3>
 <p align="center">
 <a href="https://github.com/GabrielDevJourney" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GabrielDevJourney"></a>
-<a href="https://www.instagram.com/gabspereira19/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="gabspereira19"></a>
 <a href="mailto:gabspereira178@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
