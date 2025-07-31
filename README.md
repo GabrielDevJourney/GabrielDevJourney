@@ -21,8 +21,6 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <b><i>Learning while BUILDING & EXPLORING!!!</i></b>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielDevJourney&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="GabrielDevJourney"> </p>
-
 <img align="right" width="200px" alt="Coding Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
 
 <p><em><strong>About Me...</strong></em></p>
@@ -31,7 +29,6 @@
 ✔ I thrive in fast-paced environments where I can learn, grow, and experience new challenges<br>
 ✔ Ask me about anything tech related, I'm eager to learn and share what I know!<br>
 ✔ Fun fact: <em>I enjoy adrenaline-based activities and have a taste for dark humor</em><br><br>
-
 
 <p><em><strong>Languages & Tools I Know and still improving</strong></em></p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nestjs,java,mongodb,mysql,git,github,npm,docker,postman,figma&amp;theme=dark" alt="My Skills" />
