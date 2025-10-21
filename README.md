@@ -25,12 +25,12 @@
 
 <p><em><strong>About Me...</strong></em></p>
 
-✔ I'm passionate about non-fiction books, fitness, spending quality time with my girlfriend, and enjoying longboarding sessions while vibing to music<br>
+✔ I'm passionate about non-fiction books, fitness, investing focused time in learning more, and enjoying longboarding while vibing to music<br>
 ✔ I thrive in fast-paced environments where I can learn, grow, and experience new challenges<br>
 ✔ Ask me about anything tech related, I'm eager to learn and share what I know!<br>
 ✔ Fun fact: <em>I enjoy adrenaline-based activities and have a taste for dark humor</em><br><br>
 
-<p><em><strong>Languages & Tools I Know and still improving</strong></em></p>
+<p><em><strong>Languages & Tools I Know and still exploring</strong></em></p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nestjs,java,mongodb,mysql,git,github,npm,docker,postman,figma&amp;theme=dark" alt="My Skills" />
 
 <hr>
