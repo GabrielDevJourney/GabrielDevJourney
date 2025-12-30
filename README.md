@@ -37,7 +37,7 @@ Analyzes user input with Anthropic Claude to surface insights about behavior and
 - React frontend with clean UX
 - Shipping features weekly
 
-**Tech:** TypeScript • React • Node.js • PostgreSQL • Anthropic Claude API
+**Tech:** TypeScript • NextJs • Supabase • Clerk Auth • Anthropic Claude API
 
 **Status:** Active development, planning beta launch
 
@@ -137,7 +137,7 @@ Complete game with JavaFX UI, AI opponent, turn-based combat.
 <img src="https://skillicons.dev/icons?i=ts,js,java&theme=dark" alt="Languages" />
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind&theme=dark" alt="Frontend" />
 
 **Backend**  
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring&theme=dark" alt="Backend" />
