@@ -26,16 +26,16 @@
 ## 🚀 What I'm Building Now
 <img align="right" width="200px" alt="Coding Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
 
-### **Unsaid - AI Coaching App**
+### **Unsaid - Journaling with true insights**
 *Helping users understand behavioral patterns through AI-powered analysis*
 
-Analyzes user input with Anthropic Claude to surface insights about behavior and growth patterns.
+Analyzes user input with Anthropic Claude to surface insights about behavior patterns,growth patterns, possible blind spots, cognitive patterns.
 
 **Building:**
 - PostgreSQL backend optimized for semantic data
-- Claude API integration for pattern recognition
-- React frontend with clean UX
-- Shipping features weekly
+- Claude API integration for overall recognition
+- React frontend with clean UI/UX
+- Shipping features daily
 
 **Tech:** TypeScript • NextJs • Supabase • Clerk Auth • Anthropic Claude API
 
