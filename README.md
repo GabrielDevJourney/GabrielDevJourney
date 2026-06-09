@@ -1,160 +1,72 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="180">
-</p>
+## Hey, I'm Gabriel.
 
-<h1 align="center">Gabriel Pereira</h1>
-<h3 align="center">Full-stack developer exploring building AI-powered products</h3>
+Full stack engineer, about a year in professionally. I ask product questions
+before engineering ones. That matters more in some places than others.
+Looking for one where it does.
 
-<p align="center">
-<a href="https://github.com/GabrielDevJourney" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GabrielDevJourney"></a>
-<a href="https://www.linkedin.com/in/gabriel-pereira-developer/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
-<a href="mailto:gabspereira178@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+Most of my work lives across client products at Dynamik and [Unsaid](https://byunsaid.com).
+Here's what I'm building and what I've shipped:
 
-<p align="center">
-  <em>
-    <b>Almost 2 years coding</b> • Bootcamp grad • Shipping an <b>AI coaching app</b> daily
-  </em>
-</p>
+### What I'm building
 
-<br>
+**[Unsaid](https://byunsaid.com)** - AI journaling for people who already
+journal and still can't change. Co-founded, active development. Built around
+one observation: the gap is not effort, it is pattern recognition. Designed
+the AI pipeline around what users actually need at each moment, not what the
+model can do. Real users telling us it is working.
 
+### Work
 
-<br>
+**Dynamik** (2025 – present) - Production across healthcare, insurance, and
+SaaS.
 
+**P4M** - Reduced PHPStan errors from ~3,800 to zero at max strictness. Led
+the JS-to-TS migration, giving the team a foundation they could extend
+without regressions.
 
-## 🚀 What I'm Building Now
-<img align="right" width="200px" alt="Coding Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
+**APLO** - Built the full clinical workflow for Portuguese optometry
+practices: scheduling with conflict validation, prescription generation across
+four legally-compliant declaration types, Multibanco and MBWay payment
+processing. Replaced fragmented manual steps with something practices could
+actually run their day on.
 
-### **Unsaid - Journaling with true insights**
-*Helping users understand behavioral patterns through AI-powered analysis*
+**Central Lobão** - Designed the security model for a Jira-integrated
+after-sales portal: HMAC-signed comment identity with nonce persistence,
+OAuth 3LO for continuous unattended production access. 5-locale public intake
+form.
 
-Analyzes user input with Anthropic Claude to surface insights about behavior patterns,growth patterns, possible blind spots, cognitive patterns.
+**AVP Codes** - Internal promo code tool for Allianz. Role-based auth,
+signed sessions, 43 unit tests covering authz, mutations, and migrations.
 
-**Building:**
-- PostgreSQL backend optimized for semantic data
-- Claude API integration for overall recognition
-- React frontend with clean UI/UX
-- Shipping features daily
+**AVP** - Multi-variant product modelling, address validation blocking
+non-German deliveries at checkout, and a long tail of filter and search bugs
+that needed actual debugging rather than band-aids.
 
-**Tech:** TypeScript • NextJs • Supabase • Clerk Auth • Anthropic Claude API
-
-**Status:** Active development, planning beta launch
-
-→ [View on GitHub](https://github.com/GabrielDevJourney/Unsaid)
-
-<br clear="right"/>
-
-<br>
-
-
-<br>
-
-## 💼 Professional Work
-
-### **Dynamik - Full-Stack Developer**
-*Production features across multiple client projects*
-
-<br>
-
-**P4M (Primary Project)**
-- TypeScript migration establishing type-safe backend/frontend contracts
-- Cost tracking system for maintenance plans (parts, components, stock visibility)
-- UX enhancements: drag-drop fixes, navigation optimization, table actions
-- AppFlow integration: automatic work order sync with task linking
-
-<br>
-
-**Allianz Reward Shop**
-- German-language reward platform
-- React Router • TypeScript • Tailwind CSS
-
-<br>
-
-**Additional Projects**
-- APLO, Copimatica, SEAC
-- Vue • Laravel • TypeScript implementations
-
-<br>
-
-
-<br>
-
-## 🎓 Bootcamp Projects
-
-### **YellowHeart - Contact Management Tool**
-*Team project (6 developers) built for Mindera Foundation*
-
-Centralized platform for managing external contacts and support requests.
-
-**Key Features:**
-- Multi-source contact aggregation
-- Kanban board for prospect tracking
-- Email-based invite system (Mindera domain)
-- Streamlined help request forms
-
-**Tech:** Java • Spring Boot • React • MySQL • Docker
-
-**Outcome:** Deployed and actively used by Mindera Foundation
-
-<br>
-
-### **Battleship Game**
-*Solo backend project*
-
-Complete game with JavaFX UI, AI opponent, turn-based combat.
-
-**Tech:** Java • JavaFX
-
-→ [View on GitHub](https://github.com/GabrielDevJourney/BattleShip)
-
-<br>
-
-
-<br>
-
-## 👨‍💻 About Me
-
-📍 **Location:** Aveiro, Portugal (CET timezone)  
-🌍 **Status:** Open to remote work & relocation
-
-**What drives me:** Building AI-native tools that solve real problems in fast-moving teams where I can own features end-to-end.
-
-**Outside code:** Read constantly (philosophy, psychology, business) • Lift daily • Journal daily(that's why the AI coach)
-
-**My approach:** Full-stack product building—backend → API → frontend → deployment. I ship complete features, not isolated code.
-
-<br>
-
-
-<br>
-
-## 🛠️ Tech Stack
-
-<br>
-
-**Languages**  
-<img src="https://skillicons.dev/icons?i=ts,js,java&theme=dark" alt="Languages" />
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind&theme=dark" alt="Frontend" />
-
-**Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring&theme=dark" alt="Backend" />
-
-**Databases**  
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase&theme=dark" alt="Databases" />
-
-**AI/ML**  
-Anthropic Claude • OpenAI APIs
-
-**Tools & DevOps**  
-<img src="https://skillicons.dev/icons?i=git,github,docker,npm,postman,figma&theme=dark" alt="Tools" />
-
-<br>
+**FanDuel** (2024) - Engineering intern on the Picks betting platform.
+Production environment, high traffic, real consequences for bugs.
 
 ---
 
-<p align="center">
-  <em><b>Building in public • Learning daily • Shipping daily</b></em>
-</p>
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind&theme=dark" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring,laravel,nodejs&theme=dark" />
+
+**Data**
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql&theme=dark" />
+
+**AI**
+
+Anthropic Claude · OpenAI · embeddings · RAG
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,docker,figma,postman&theme=dark" />
+
+---
+
+Aveiro, Portugal · [gabrielfpereira.com](https://gabrielfpereira.com) · [gabspereira178@gmail.com](mailto:gabspereira178@gmail.com) · [LinkedIn](https://linkedin.com/in/gabriel-pereira-developer)
