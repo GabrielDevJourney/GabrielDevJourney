@@ -4,12 +4,12 @@ Full stack engineer, about a year in professionally. I ask product questions
 before engineering ones. That matters more in some places than others.
 Looking for one where it does.
 
-Most of my work lives across client products at Dynamik and [Unsaid](https://byunsaid.com).
+Most of my work lives across client products at Dynamik and [Unsaid](https://byunsaid.vercel.app/).
 Here's what I'm building and what I've shipped:
 
 ### What I'm building
 
-**[Unsaid](https://byunsaid.com)** - AI journaling for people who already
+**[Unsaid](https://byunsaid.vercel.app/)** - AI journaling for people who already
 journal and still can't change. Co-founded, active development. Built around
 one observation: the gap is not effort, it is pattern recognition. Designed
 the AI pipeline around what users actually need at each moment, not what the
